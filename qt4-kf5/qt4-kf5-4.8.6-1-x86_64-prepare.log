@@ -1,0 +1,22 @@
+patching file examples/desktop/systray/window.cpp
+patching file examples/desktop/systray/window.h
+patching file src/gui/util/qabstractsystemtrayiconsys.cpp
+patching file src/gui/util/qabstractsystemtrayiconsys_p.h
+patching file src/gui/util/qsystemtrayicon.cpp
+patching file src/gui/util/qsystemtrayicon_p.h
+patching file src/gui/util/qsystemtrayicon_x11.cpp
+patching file src/gui/util/qxembedsystemtrayicon_x11.cpp
+patching file src/gui/util/qxembedsystemtrayicon_x11_p.h
+patching file src/gui/util/util.pri
+patching file src/gui/styles/qgtkstyle_p.cpp
+patching file src/gui/styles/qgtkstyle_p.h
+patching file src/gui/dialogs/qprintdialog_unix.cpp
+Hunk #1 succeeded at 579 (offset 10 lines).
+patching file src/gui/painting/qprinter.cpp
+patch unexpectedly ends in middle of line
+Hunk #1 succeeded at 609 with fuzz 1 (offset -18 lines).
+patching file src/tools/moc/main.cpp
+patch unexpectedly ends in middle of line
+Hunk #1 succeeded at 190 with fuzz 1.
+patching file src/gui/image/qgifhandler.cpp
+patch unexpectedly ends in middle of line
